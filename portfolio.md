@@ -4,8 +4,6 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-# Portfolio
-
 Below is a curated selection of my key projects and consulting engagements:
 
 ## Consulting Projects
