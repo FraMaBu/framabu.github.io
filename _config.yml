@@ -1,0 +1,18 @@
+title: "Franz Maximilian Buchmann, PhD"
+description: "Professional profile, portfolio, and CV – Data Science, Economics & AI"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # Use latest stable release or update as needed
+author:
+  name: "Franz Maximilian Buchmann, PhD"
+  email: "franz.buchmann07@gmail.com"
+url: "https://framabu.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Define primary navigation (order matters)
+header_pages:
+  - index.md
+  - portfolio.md
+  - cv.md
