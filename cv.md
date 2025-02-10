@@ -13,7 +13,6 @@ An economist with robust expertise in AI, Finance, and Statistics. I specialize 
 - **Role:** Lead technical projects implementing ML/AI solutions.
 - **Highlights:**
   - Developed an AI recommendation system that generated over 1.5 million DKK in revenue.
-  - Formulated a data strategy for an international retailer focusing on supply chain and sustainability.
 
 #### Senior Consultant in T&L Technology — PwC Denmark *(Sep 2022 - Nov 2023)*
 - **Role:** Led data science initiatives in Tax and Legal services.
