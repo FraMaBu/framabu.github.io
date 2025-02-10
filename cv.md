@@ -3,35 +3,32 @@ layout: single
 title: "Professional CV"
 permalink: /cv/
 ---
-
-# Professional CV
-
 ## Professional Summary
 
 An economist with robust expertise in AI, Finance, and Statistics. I specialize in quantitative research, machine learning applications, and the operationalization of data-driven strategies for digital and green transformations.
 
 ## Work Experience
 
-### Senior Data Scientist — Valcon A/S *(April 2024 - Januray 2025)*
+#### Senior Data Scientist — Valcon A/S *(April 2024 - Januray 2025)*
 - **Role:** Lead technical projects implementing ML/AI solutions.
 - **Highlights:**
   - Developed an AI recommendation system that generated over 1.5 million DKK in revenue.
   - Formulated a data strategy for an international retailer focusing on supply chain and sustainability.
 
-### Senior Consultant in T&L Technology — PwC Denmark *(Sep 2022 - Nov 2023)*
+#### Senior Consultant in T&L Technology — PwC Denmark *(Sep 2022 - Nov 2023)*
 - **Role:** Led data science initiatives in Tax and Legal services.
 - **Highlights:**
   - Engineered tax engines to automate financial data processing.
   - Implemented web-based document generation, reducing drafting time by up to 80%.
   - Served as Scrum Master, enhancing team performance.
 
-### PhD Fellow in Operations Management — Copenhagen Business School *(Sep 2018 - Apr 2022)*
+#### PhD Fellow in Operations Management — Copenhagen Business School *(Sep 2018 - Apr 2022)*
 - **Research:** Explored the interplay between environmental regulations and technology adoption in the maritime industry's green transition.
 - **Highlights:**
   - Applied quantile regression, bootstrapping, and Random Forests for mixed data imputation.
   - Integrated data from over 2,000 vessels using commercial API and real-time AIS signals.
 
-### Research Associate — Copenhagen Business School PRME *(May 2017 - Jun 2018)*
+#### Research Associate — Copenhagen Business School PRME *(May 2017 - Jun 2018)*
 - Conducted large-scale empirical studies using survey design, data collection, and Fixed-Effects panel models.
 
 ## Education
