@@ -10,52 +10,40 @@ permalink: /portfolio/
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   grid-gap: 1.5rem;
+  margin: 1rem 0;
 }
 
-/* Individual card style */
-.card {
-  position: relative;
+/* Style the card as a link with no default blue styling */
+a.card {
+  display: block;
   padding: 1rem;
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 4px;
-  transition: box-shadow 0.3s ease;
-}
-.card:hover {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-}
-
-/* Make sure content is above the overlay */
-.card__header,
-.card__body {
-  position: relative;
-  z-index: 2;
-}
-
-/* Invisible link overlay that covers the entire card */
-.card-link {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
   text-decoration: none;
+  color: inherit;
+}
+a.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+.card__header h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+.card__body p {
+  margin: 0.5rem 0 0;
+  font-size: 0.95rem;
 }
 </style>
+
+# Portfolio
 
 Below is a selection of my key projects. Click on a project card for more details.
 
 <div class="cards">
   {% for project in site.projects %}
-    <div class="card">
-      <a class="card-link" href="{{ project.url | relative_url }}"></a>
-      <div class="card__header">
-        <h3>{{ project.title }}</h3>
-      </div>
-      <div class="card__body">
-        <p>{{ project.description }}</p>
-      </div>
-    </div>
+    {% include project-card.html project=project %}
   {% endfor %}
 </div>
