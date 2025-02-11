@@ -4,17 +4,27 @@ title: "Portfolio"
 permalink: /portfolio/
 ---
 
-Below is a curated selection of my key projects and consulting engagements:
+# Portfolio
 
-## Consulting Projects
+Below is a selection of my key projects. Click on a project card for more details.
 
-### Evidence-based Priority Setting for World Bank Health Projects
-*2024*  
-Led a Generative AI–powered analysis for Results for Development (R4D) that refined health financing priorities across low- and middle-income countries. Leveraged GPT models and advanced NLP to process 75 health project documents in just one month.
-
-## Work Projects
-
-### AI Recommendation System
-Developed an invoicing recommendation system using autoencoders and large language models that generated over 1.5 million DKK in additional revenue within six months.
-
-*(For additional details or inquiries about my work, please [contact me](mailto:franz.buchmann07@gmail.com).)*
+<div class="cards">
+  {% for project in site.projects %}
+    <div class="card">
+      <div class="card__header">
+        <h3>{{ project.title }}</h3>
+      </div>
+      <div class="card__body">
+        <p>{{ project.description }}</p>
+      </div>
+      <div class="card__footer">
+        {% if project.github %}
+          <a href="{{ project.github }}" class="btn btn--small" target="_blank">GitHub</a>
+        {% endif %}
+        {% if project.blog %}
+          <a href="{{ project.blog }}" class="btn btn--small">Blog Article</a>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>

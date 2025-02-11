@@ -4,6 +4,10 @@ title: "Profile"
 permalink: /
 ---
 
+<div class="profile" style="text-align:center; margin-bottom:20px;">
+  <img src="{{ site.author.avatar | relative_url }}" alt="Profile Picture" style="max-width:150px; border-radius:50%;">
+</div>
+
 # Dr. Franz Maximilian Buchmann
 
 **Senior Data Scientist | Consultant | Researcher**

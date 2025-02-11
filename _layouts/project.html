@@ -1,0 +1,23 @@
+---
+layout: single
+---
+
+<article class="project">
+  <header class="project-header">
+    <h1>{{ page.title }}</h1>
+    <p class="project-meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+  </header>
+  <section class="project-content">
+    {{ content }}
+  </section>
+  <footer class="project-footer">
+    <div class="project-links">
+      {% if page.github %}
+        <a href="{{ page.github }}" class="btn btn--primary" target="_blank">View on GitHub</a>
+      {% endif %}
+      {% if page.blog %}
+        <a href="{{ page.blog }}" class="btn btn--secondary">Read Blog Article</a>
+      {% endif %}
+    </div>
+  </footer>
+</article>

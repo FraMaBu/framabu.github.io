@@ -1,9 +1,13 @@
 title: "Franz Maximilian Buchmann, PhD"
 description: "Professional profile, portfolio, and CV – Data Science, Economics & AI"
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # Use latest stable release or update as needed
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # Use the latest stable release or update as needed
+minimal_mistakes_skin: "contrast"  # Use the contrast skin
+
 author:
   name: "Franz Maximilian Buchmann, PhD"
   email: "franz.buchmann07@gmail.com"
+  avatar: "/assets/images/fmb.jpg"  # Replace with your actual profile picture
+
 url: "https://framabu.github.io"
 baseurl: ""
 
@@ -11,9 +15,20 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Define primary navigation (order matters)
 header_pages:
   - index.md
   - portfolio.md
   - cv.md
+  - blog.md
+
+# Also define a navigation data file (see _data/navigation.yml below)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/

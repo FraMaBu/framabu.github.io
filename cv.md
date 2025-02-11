@@ -3,32 +3,39 @@ layout: single
 title: "Professional CV"
 permalink: /cv/
 ---
+
+<div class="cv-header" style="text-align:center; margin-bottom:20px;">
+  <img src="{{ site.author.avatar | relative_url }}" alt="Profile Picture" style="max-width:150px; border-radius:50%;">
+</div>
+
 ## Professional Summary
 
-An economist with robust expertise in AI, Finance, and Statistics. I specialize in quantitative research, machine learning applications, and the operationalization of data-driven strategies for digital and green transformations.
+An economist with a strong background in AI, Finance, and Statistics, adept at addressing the evolving challenges associated with digital and green transformations. Experienced in quantitative research in climate economics, Generative AI, and Machine Learning applications, with a proven ability to deliver impactful results through effective collaboration in diverse environments.
 
 ## Work Experience
 
-#### Senior Data Scientist — Valcon A/S *(April 2024 - Januray 2025)*
-- **Role:** Lead technical projects implementing ML/AI solutions.
+#### Senior Data Scientist — Valcon A/S *(May 2024 - Present)*
+- **Role:** Technical lead for projects implementing ML/AI solutions.
 - **Highlights:**
-  - Developed an AI recommendation system that generated over 1.5 million DKK in revenue.
+  - Built an AI recommendation system for invoicing at a multinational company, generating over 1.5 million DKK in additional revenue within six months.
+  - Developed data strategies for supply chain systems and enhanced data transparency.
 
 #### Senior Consultant in T&L Technology — PwC Denmark *(Sep 2022 - Nov 2023)*
 - **Role:** Led data science initiatives in Tax and Legal services.
 - **Highlights:**
   - Engineered tax engines to automate financial data processing.
-  - Implemented web-based document generation, reducing drafting time by up to 80%.
+  - Implemented web–based document generation, reducing drafting time by up to 80%.
   - Served as Scrum Master, enhancing team performance.
 
 #### PhD Fellow in Operations Management — Copenhagen Business School *(Sep 2018 - Apr 2022)*
-- **Research:** Explored the interplay between environmental regulations and technology adoption in the maritime industry's green transition.
+- **Research:** Investigated the interplay between environmental regulations and technology adoption in the maritime industry’s green transition.
 - **Highlights:**
-  - Applied quantile regression, bootstrapping, and Random Forests for mixed data imputation.
-  - Integrated data from over 2,000 vessels using commercial API and real-time AIS signals.
+  - Applied advanced statistical methods (e.g., quantile regression, bootstrapping).
+  - Integrated datasets from over 2,000 vessels using commercial APIs and AIS signals.
+  - Developed Machine Learning models (e.g., Random Forests) for mixed data imputation.
 
 #### Research Associate — Copenhagen Business School PRME *(May 2017 - Jun 2018)*
-- Conducted large-scale empirical studies using survey design, data collection, and Fixed-Effects panel models.
+- Conducted large–scale empirical studies using survey design, data collection, and Fixed–Effects panel models.
 
 ## Education
 
@@ -52,6 +59,4 @@ An economist with robust expertise in AI, Finance, and Statistics. I specialize 
 
 - **Languages:** German (Native), English (Full Professional Proficiency)  
 - **Awards:** SAS Thesis Award Winner (2018)  
-- **Teaching:** Managerial Economics at Copenhagen Business School (150 students per semester)
-
-For a complete version or further details, please [contact me](mailto:franz.buchmann07@gmail.com).
+- **Teaching:** Managerial Economics at Copenhagen Business School (approximately 150 students per semester)
