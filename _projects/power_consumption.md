@@ -4,7 +4,7 @@ title: "Forecasting Household Power Consumption with Hybrid LSTM-Fourier Model"
 date: 2024-01-01
 description: "A novel forecasting method that combines LSTM networks with Fourier features to account for daily, weekly, and annual cycles in household power consumption."
 tags: [forecasting, power consumption, LSTM, Fourier, machine learning]
-github: "https://github.com/FraMaBu/power-consumption-forecasting"  # Placeholder; update as needed
+github: "https://github.com/FraMaBu/power-consumption-forecasting"
 blog: "/blog/power-consumption-forecasting"
 ---
 
