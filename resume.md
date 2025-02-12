@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: single
 title: "Resume"
 permalink: /resume/
 sidebar:
   nav: "page"
-author_profile: true
 ---
 
 An economist with a strong background in AI, Finance, and Statistics, adept at addressing the evolving challenges associated with digital and green transformations. Experienced in quantitative research in climate economics, Generative AI, and Machine Learning applications, with a proven ability to deliver impactful results through effective collaboration in diverse environments.
