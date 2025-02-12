@@ -1,25 +1,52 @@
 title: "Franz Maximilian Buchmann, PhD"
-description: "Professional profile, portfolio, and CV – Data Science, Economics & AI"
+description: "Professional profile – Data Science, Economics & AI"
+url: "https://framabu.github.io"
+baseurl: ""
+
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast"
 
 author:
   name: "Franz Maximilian Buchmann, PhD"
-  email: "franz.buchmann07@gmail.com"
   avatar: "/assets/images/fmb.jpg"
+  bio: "Data Scientist experienced in AI, Finance, and Statistics. Passionate about digital and green transformations."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:franz.buchmann07@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/franz-buchmann/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/FraMaBu"
 
-url: "https://framabu.github.io"
-baseurl: ""
+
+header_pages:
+  - index.md
+  - resume.md
+  - portfolio.md
+  - contact.md
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
 
-paginate: 5
-paginate_path: "/blog/page:num/"
-
+# Collections configuration for portfolio items
 collections:
-  projects:
+  portfolio:
     output: true
-    permalink: /projects/:title/
+    permalink: /:collection/:path/
+
+# Defaults for portfolio items
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true

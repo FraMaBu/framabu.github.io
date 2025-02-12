@@ -1,15 +1,11 @@
 ---
-layout: single
-title: "Portfolio"
+title: Portfolio
+layout: collection
 permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
 
-{% include card-styles.html %}
+Explore my portfolio of selected projects where I apply advanced data science, machine learning, and statistical methods to deliver impactful solutions. Each project entry provides insights into the problem tackled, the technical approach, and the results achieved.
 
-Below is a selection of my key projects. Click on a project card for more details.
-
-<div class="cards">
-  {% for project in site.projects %}
-    {% include card-contents.html project=project %}
-  {% endfor %}
-</div>

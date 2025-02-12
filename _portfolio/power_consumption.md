@@ -1,12 +1,9 @@
 ---
-layout: project
 title: "Forecasting Household Power Consumption"
 date: 2024-01-01
 description: "A novel forecasting approach that combines neural nets with deterministic Fourier features to account for daily, weekly, and annual cycles in household power consumption."
-tags: [forecasting, power consumption, LSTM, Fourier, machine learning]
 github: "https://github.com/FraMaBu/forecast-power-consumption"
 blog: "/blog/power-consumption-forecasting"
-image: "/assets/images/power_hero.png"
 ---
 
 ## What is the project?

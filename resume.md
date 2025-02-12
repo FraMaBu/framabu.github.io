@@ -1,12 +1,11 @@
 ---
 layout: single
-title: "Professional CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
+author_profile: true
+sidebar:
+  nav: "page"
 ---
-
-<div class="cv-header" style="text-align:center; margin-bottom:20px;">
-  <img src="{{ site.author.avatar | relative_url }}" alt="Profile Picture" style="max-width:150px; border-radius:50%;">
-</div>
 
 ## Professional Summary
 
