@@ -5,6 +5,7 @@ permalink: /
 author_profile: true
 header:
   overlay_image: "/assets/images/banner.jpg"
+  overlay_color: "#5e616c"
 ---
 
 **Senior Data Scientist** | **Consultant** | **Researcher**
