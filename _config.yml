@@ -6,6 +6,7 @@ baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast"
 
+# Author information
 author:
   name: "Franz Maximilian Buchmann, PhD"
   avatar: "/assets/images/fmb.jpg"
@@ -21,7 +22,7 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/FraMaBu"
 
-
+# Navbar
 header_pages:
   - index.md
   - resume.md
