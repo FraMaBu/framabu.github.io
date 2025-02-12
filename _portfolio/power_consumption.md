@@ -20,5 +20,3 @@ I implemented and compared three forecasting techniques:
 - **Linear Regression:** A simple approach that assumes linear relationships.
 - **LSTM Model:** A neural network that learns temporal dependencies.
 - **Hybrid Model (LSTM + Fourier Features):** An advanced model that integrates deterministic Fourier features (encoding daily, weekly, and annual cycles) with an LSTM. This hybrid approach reduced Mean Squared Error by over 8% relative to the baseline.
-
-*(For more details, please see the accompanying blog article.)*
