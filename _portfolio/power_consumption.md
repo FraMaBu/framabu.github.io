@@ -4,7 +4,8 @@ date: 2024-01-01
 excerpt: "A novel forecasting approach that combines neural nets with deterministic Fourier features to account for daily, weekly, and annual cycles in household power consumption."
 header:
   overlay_image: "/assets/images/power_hero.png"
-  overlay_color: "#5e616c"
+  overlay_color: "#000000"
+  overlay_opacity: 0.3
   teaser: "/assets/images/power_hero.png"
 ---
 This project explores a new method for predicting household power consumption—an essential task for efficient energy management and grid optimization.
