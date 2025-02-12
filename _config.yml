@@ -22,13 +22,6 @@ author:
       icon: "fab fa-github"
       url: "https://github.com/FraMaBu"
 
-# Navbar
-header_pages:
-  - index.md
-  - resume.md
-  - portfolio.md
-  - contact.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

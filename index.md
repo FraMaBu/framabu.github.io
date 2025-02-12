@@ -1,10 +1,11 @@
 ---
-layout: single
+layout: splash
 title: "Welcome"
 permalink: /
 author_profile: true
 header:
-  hero_image: "/assets/images/banner.jpg"
+  overlay_image: "/assets/images/banner.jpg"
+  overlay_color: "#5e616c"
 ---
 
 **Senior Data Scientist** | **Consultant** | **Researcher**
