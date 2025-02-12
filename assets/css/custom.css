@@ -1,0 +1,4 @@
+/* Reduce header height */
+.page-header {
+    min-height: 250px !important;
+  }
