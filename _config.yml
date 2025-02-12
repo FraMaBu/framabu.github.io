@@ -23,11 +23,9 @@ author:
       url: "https://github.com/FraMaBu"
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-include-cache
 
-# Collections configuration for portfolio items
+# Collections configuration for portfolio
 collections:
   portfolio:
     output: true
