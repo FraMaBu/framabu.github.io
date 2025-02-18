@@ -4,13 +4,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // Import the contrast skin
 @import "minimal-mistakes"; // Import main theme partials
-
-/* Reduce header height */
-.page-header {
-    min-height: 250px !important;
-  }
-  
-  /* Add opacity to hero images */
-  .page__hero--overlay {
-    background-color: rgba(0, 0, 0, 0.3) !important;
-  }
