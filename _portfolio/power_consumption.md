@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Household Power Consumption"
-date: 2024-01-01
-excerpt: "A novel forecasting approach that combines neural nets with deterministic Fourier features to account for daily, weekly, and annual cycles in household power consumption."
+date: 2025-02-10
+excerpt: "A novel forecasting method for household power consumption that integrates neural networks with Fourier features to effectively model power consumption cycles."
 header:
   overlay_image: "/assets/images/power_hero.png"
   overlay_filter: 0.5
