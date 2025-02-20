@@ -2,65 +2,60 @@
 layout: single
 title: "Resume"
 permalink: /resume/
-wide: true
+toc: true
 author_profile: true
 ---
 
-I am a Senior Data Scientist with a strong background in AI/ML, Economics, and Statistics, adept at addressing the evolving challenges associated with digital and green transformations. Experienced in quantitative research in Climate Economics, Generative AI, and Machine Learning applications, with a proven track-record of delivering impactful results through effective collaboration in international and crossfunctional teams.
-
-<a class="btn-primary" href="/assets/files/cv_fmb.pdf" download>Download CV</a>
+<section class="intro">
+  <p>
+    I am a Senior Data Scientist with a robust background in Artificial Intelligence, Economics, and Statistics, adept at addressing the challenges of both digital and green transformations. My expertise in quantitative research in climate economics and AI/ML applications, combined with several years of consulting experience, empowers me to deliver sustainable, impactful solutions through effective collaboration in diverse teams.
+  </p>
+  <a class="btn btn-primary" href="/assets/files/cv_fmb.pdf" download>Download CV</a>
+</section>
 
 ## Work Experience
 
 ### Senior Data Scientist — Valcon A/S
-_(Apr 2024 - Feb 2025)_
-Technical lead for projects implementing ML/AI solutions.
-  - Built an AI recommendation system for invoicing at a multinational company, generating over 1.5 million DKK in additional revenue within six months.
-  - Developed data strategies for supply chain systems and enhanced data transparency.
+*Apr 2024 - Feb 2025*  
+At Valcon A/S, I served as a Senior Data Scientist and technical lead, driving the full lifecycle of ML/AI projects—from discovery through implementation—while operationalizing Agile and MLOps methodologies. Notably, I developed an AI recommendation system for invoicing at a multinational damage restoration company using autoencoders and large language models, generating over 1.5 million DKK in additional revenue and recouping 64% of project costs within six months.
 
 ### Senior Consultant — PwC Denmark
- _(Sep 2022 - Dec 2023)_
-  Led data science initiatives in Tax and Legal services.
-  - Engineered tax engines to automate financial data processing.
-  - Implemented web–based document generation, reducing drafting time by up to 80%.
-  - Served as Scrum Master, enhancing team performance.
+*Sep 2022 - Dec 2023*  
+At PwC Denmark, I spearheaded data science initiatives in Tax and Legal services, engineering cutting-edge tax engines that automated financial data processing for multinational groups and significantly reduced reporting errors. I also implemented web-based document generation solutions on Google Cloud, cutting tax documentation drafting time by up to 80%, while serving as a Scrum Master to enhance cross-functional team performance and client satisfaction.
 
 ### PhD Fellow — Copenhagen Business School
-_(Sep 2018 - Apr 2022)_
-  Investigated the interplay between environmental regulations and technology adoption in the maritime industry’s green transition.
-  - Applied advanced statistical methods (e.g., quantile regression, bootstrapping).
-  - Integrated datasets from over 2,000 vessels using commercial APIs and AIS signals.
-  - Developed Machine Learning models (e.g., Random Forests) for mixed data imputation.
+*Sep 2018 - Apr 2022*  
+At CBS, I pursued a PhD in Operations Management focused on how environmental regulations drive technology adoption in the maritime industry’s green transition. My research combined advanced statistical techniques like quantile regression and bootstrapping with rigorous mathematical modeling and Monte-Carlo simulations to chart green transition paths and evaluate the impact of clean technologies on vessel energy efficiency. I also fine-tuned Machine Learning models, such as Random Forests, to predict green fuel adoption, offering actionable insights for both policy makers and industry practitioners.
 
 ### Research Associate — Copenhagen Business School PRME
-_(May 2017 - Jun 2018)_
-  Conducted large–scale empirical studies using survey design, data collection, and Fixed–Effects panel models.
+*May 2017 - Jun 2018*  
+At Copenhagen Business School PRME, I conducted extensive empirical research in responsible management education by designing surveys, collecting robust data, and applying advanced statistical inference with panel models like Fixed-Effects. My work yielded critical insights that directly informed curriculum design and enhanced teaching strategies for undergraduate students.
 
 ## Consulting Projects
 
-### Evidence-based priority setting for World Bank healthcare financing
- _(Jan 2024 - Apr 2024)_
-  Led the Generative AI powered comparative analysis for  [Results for Development (R4D)](https://r4d.org/) to support the World Bank in refining health financing priorities across low- and middle-income countries (LMICs) through detailed, evidence-based insights.
-  - Responsibilities: Designed and implemented a hybrid analysis approach leveraging GPT models for efficient, large-scale document review; utilized advanced natural language processing (NLP) techniques for consistent data extraction; coordinated with stakeholders to ensure alignment of AI findings with project objectives.
-  - Results: Completed textual analysis and human review of 75 World Bank health project documents within one month, generating a unique qualitative dataset that produced actionable and testable hypotheses for strengthening health financing strategies across twelve LMICs worldwide.
-
+### Evidence-based Priority Setting for World Bank Healthcare Financing
+*Jan 2024 - Apr 2024*  
+At Results for Development (R4D), I led a Generative AI-powered comparative analysis to support the World Bank in refining health financing priorities across low- and middle-income countries. I designed and implemented a hybrid approach leveraging LLMs and advanced NLP techniques to conduct a structured analysis of 75 health project documents, generating a unique qualitative dataset. This innovative analysis produced actionable, testable hypotheses that are now shaping enhanced health financing strategies across twelve LMICs.
 
 ## Education
+
 - **MSc Advanced Economics and Finance**  
-  Copenhagen Business School _(2016 - 2018)_  
+  *Copenhagen Business School (2016 - 2018)*  
   Final Grade: 11.10 (Top 10% of class)
 - **BSc Economics**  
-  Ludwig Maximilian University Munich _(2012 - 2015)_ 
+  *Ludwig Maximilian University Munich (2012 - 2015)*  
   Final Grade: 1.54 (Top 10% of class)
 
 ## Technical Skills
+
 - **Programming:** Python, SQL, JavaScript, R  
 - **AI & Machine Learning:** scikit-learn, PyTorch, TensorFlow, Transformers  
-- **Data Engineering:** Apache Spark (PySpark), Delta Lake
+- **Data Engineering:** Apache Spark (PySpark), Delta Lake  
 - **Cloud & DevOps:** Microsoft Azure, Databricks, Docker, Git  
 - **Business Intelligence:** PowerBI, Seaborn, Plotly
 
 ## Additional Information
+
 - **Languages:** German (Native), English (Full Professional Proficiency)  
 - **Awards:** SAS Thesis Award Winner (2018)  
 - **Teaching:** Managerial Economics at Copenhagen Business School (approximately 150 students per semester)
