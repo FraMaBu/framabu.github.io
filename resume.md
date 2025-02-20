@@ -44,21 +44,26 @@ For Results for Development (R4D), I led a comparative analysis to support the W
 
 - **MSc Advanced Economics and Finance**  
   *Copenhagen Business School (2016 - 2018)*  
-  Final Grade: 11.10 (Top 10% of class)
-- **BSc Economics**  
+  Final Grade: 11.10 (Top 10% of class)  
+  *This rigorous two-year program equips students with advanced quantitative and analytical skills in finance and economics, preparing them for high-level roles in the financial sector, consulting, or further academic research.*
+
+- **BSc Economics (Volkswirtschaft)**  
   *Ludwig Maximilian University Munich (2012 - 2015)*  
-  Final Grade: 1.54 (Top 10% of class)
+  Final Grade: 1.54 (Top 10% of class)  
+  *This comprehensive three-year undergraduate program lays a strong foundation in economic theory, quantitative methods, and market analysis, setting the stage for a successful career or advanced studies.*
 
 ## Technical Skills
 
-- **Programming:** Python, SQL, JavaScript, R  
-- **AI & Machine Learning:** scikit-learn, PyTorch, TensorFlow, Transformers  
-- **Data Engineering:** Apache Spark (PySpark), Delta Lake  
-- **Cloud & DevOps:** Microsoft Azure, Databricks, Docker, Git  
-- **Business Intelligence:** PowerBI, Seaborn, Plotly
+- **Programming Languages:** Python, SQL, JavaScript, R  
+- **AI & Machine Learning:** Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, Transformers  
+- **Software Development:** Git, Docker, FastAPI  
+- **Data Engineering:** Apache Spark (*PySpark*), Delta Lake  
+- **Business Intelligence:** PowerBI, Matplotlib, Plotly  
+- **Cloud Platforms:** Microsoft Azure (*ML, OpenAI, DevOps*), Databricks, Microsoft Fabric, Google Cloud  
+- **Other Skills:** Agile project management, MLOps (*MLflow*), Generative AI, Statistical analysis
 
 ## Additional Information
 
-- **Languages:** German (Native), English (Full Professional Proficiency)  
-- **Awards:** SAS Thesis Award Winner (2018)  
-- **Teaching:** Managerial Economics at Copenhagen Business School (approximately 150 students per semester)
+- **Languages:** German (Native), English (Full professional proficiency)  
+- **Awards:** SAS Master Thesis Award Winner — Awarded for innovative use of data and statistical modeling (2018).
+- **Teaching Experience:** Teach a *Managerial Economics* course at Copenhagen Business School, instructing and evaluating approximately 150 students per semester through lectures and hands-on exercise classes.
