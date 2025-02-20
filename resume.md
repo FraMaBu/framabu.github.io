@@ -11,9 +11,11 @@ classes: resume-page
   <p>
     I’m a Senior Data Scientist who combines a passion for Artificial Intelligence, Economics, and Statistics to tackle the challenges of digital and green transformations. My hands-on work in climate economics and AI/ML, along with years of consulting experience, reflects my commitment to creating sustainable, impactful solutions through collaborative innovation.
   </p>
-  <a href="{{ '/assets/files/cv.pdf' | relative_url }}" class="btn btn--primary" download>
-    Download Full CV
-  </a>
+  <div class="text-center">
+    <a href="{{ '/assets/files/cv_fmb.pdf' | relative_url }}" class="btn btn--primary" download>
+      Download Full CV
+    </a>
+  </div>
 </section>
 
 ## Work Experience
