@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: "/assets/images/banner.jpg"
   caption: "Solving Problems with Data"
-  cta:
+  actions:
     - label: "Portfolio"
       url: /portfolio/
     - label: "CV"
