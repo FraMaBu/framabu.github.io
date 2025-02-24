@@ -21,16 +21,10 @@ header:
       Welcome to my professional website. I’m a passionate data scientist, consultant, and academic dedicated to addressing complex challenges with innovative data solutions.
     </p>
     <p>
-      With consulting experience at industry leaders like Valcon and PwC Denmark and a strong academic background from Copenhagen Business School and Ludwig-Maximilians-University Munich, I blend rigorous theoretical expertise with managing the end-to-end lifecycle of real-world AI/ML applications.
+      With consulting experience at industry leaders like Valcon and PwC Denmark and a strong academic background from Copenhagen Business School and Ludwig-Maximilians-University Munich, I blend rigorous theoretical expertise with hands-on experience in delivering innovative data solutions for businesses.
     </p>
     <p>
-      Whether it’s developing and implementing custom neural net architectures, designing mathematical models, or leading data-driven consulting projects, my goal is to drive digital and green transformations across sectors.
+      Whether it’s developing custom neural net architectures, designing mathematical models for simulations, or implementing AI/ML applications in cloud environments, my goal is to drive digital and green transformations across sectors.
     </p>
   </div>
-</section>
-
-<section class="widget widget-portfolio">
-<div class="portfolio-carousel">
-  {% include recent_posts.html collection="portfolio" limit=5 %}
-</div>
 </section>
