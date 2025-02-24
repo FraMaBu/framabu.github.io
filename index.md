@@ -7,10 +7,10 @@ header:
   overlay_image: "/assets/images/banner.jpg"
   caption: "Solving Problems with Data"
   actions:
-    - label: "Portfolio"
+    - label: "View Portfolio"
       url: /portfolio/
-    - label: "CV"
-      url: /cv/
+    - label: "View Resume"
+      url: /resume/
 ---
 
 <section class="intro">
