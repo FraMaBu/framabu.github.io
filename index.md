@@ -4,7 +4,7 @@ title: "Welcome"
 permalink: /
 author_profile: true
 header:
-  overlay_image: "/assets/images/banner.jpg"
+  image: "/assets/images/banner.jpg"
   caption: "Solving Problems with Data"
   actions:
     - label: "Portfolio"
