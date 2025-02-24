@@ -11,6 +11,7 @@ header:
       url: /portfolio/
     - label: "View Resume"
       url: /resume/
+wide: true
 ---
 
 <section class="intro">
