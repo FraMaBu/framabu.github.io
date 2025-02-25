@@ -2,13 +2,13 @@
 title: "Case Study: Automating Invoicing Accuracy with AI"
 date: 2025-02-20
 excerpt: "Leveraging modular neural networks to automate invoicing accuracy and enhance financial performance."
-layout: custom-page
 tags: [case study]
 header:
   overlay_image: "/assets/images/invoice_hero.png"
   overlay_filter: 0.5
   caption: "Photo credit: Flux.1-dev"
   teaser: "/assets/images/invoice_hero.png"
+classes: custom-page
 ---
 
 This project is drawn from my consulting experience where I served as the lead for the technical team. In this case study, I detail how advanced AI techniques were deployed to solve real-world invoicing challenges, transforming a manual and error-prone process into one that is both efficient and highly accurate.
