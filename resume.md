@@ -69,3 +69,9 @@ For Results for Development (R4D), I led a comparative analysis to support the W
 - **Languages:** German (Native), English (Full professional proficiency)  
 - **Awards:** SAS Master Thesis Award Winner — Awarded for innovative use of data and statistical modeling (2018).
 - **Teaching Experience:** Teach a *Managerial Economics* course at Copenhagen Business School, instructing and evaluating approximately 150 students per semester through lectures and hands-on exercise classes.
+
+<div class="text-center">
+  <a href="{{ '/assets/files/cv_fmb.pdf' | relative_url }}" class="btn btn--primary" download>
+    Download Full CV
+  </a>
+</div>
