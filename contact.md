@@ -5,30 +5,22 @@ permalink: /contact/
 author_profile: true
 ---
 
-Please fill out the form below to get in touch:
+If you’d like to get in touch, please fill out the form below.
 
-<form action="mailto:franz.buchmann07@gmail.com" method="post" enctype="text/plain" class="contact-form">
-  <div class="form-group">
-    <label for="contact-name">Name:</label>
+<form action="https://formspree.io/f/xnnjklbn" method="POST">
+  <p>
+    <label for="contact-name">Name:</label><br>
     <input type="text" id="contact-name" name="name" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="contact-email">Email:</label>
-    <input type="email" id="contact-email" name="email" required>
-  </div>
-  
-  <div class="form-group">
-    <label for="contact-subject">Subject:</label>
-    <input type="text" id="contact-subject" name="subject">
-  </div>
-  
-  <div class="form-group">
-    <label for="contact-message">Message:</label>
+  </p>
+  <p>
+    <label for="contact-email">Email:</label><br>
+    <input type="email" id="contact-email" name="_replyto" required>
+  </p>
+  <p>
+    <label for="contact-message">Message:</label><br>
     <textarea id="contact-message" name="message" rows="5" required></textarea>
-  </div>
-  
-  <div class="form-group">
+  </p>
+  <p>
     <button type="submit">Send Message</button>
-  </div>
+  </p>
 </form>
