@@ -5,7 +5,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // Import the contrast skin
 @import "minimal-mistakes"; // Import main theme partials
 
-.resume-page .page__content {
+.custom-page .page__content {
     text-align: justify;
-    font-size: 0.8em; 
+    font-size: 0.9em; 
   }

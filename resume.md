@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 toc: true
 author_profile: true
-classes: resume-page
+classes: custom-page
 ---
 
 <section class="intro">
