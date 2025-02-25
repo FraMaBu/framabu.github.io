@@ -11,8 +11,6 @@ header:
 classes: custom-page
 ---
 
-## Overview
-
 This project is drawn from my consulting experience where I served as the lead for the technical team. In this case study, I detail how advanced AI techniques were deployed to solve real-world invoicing challenges, transforming a manual and error-prone process into one that is both efficient and highly accurate.
 
 ## The challenge
