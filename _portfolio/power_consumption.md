@@ -6,7 +6,7 @@ tags: [case study]
 header:
   overlay_image: "/assets/images/power_hero.png"
   overlay_filter: 0.5
-  caption: “Image credit: DALL-E3”
+  caption: "Image credit: DALL-E3"
   teaser: "/assets/images/power_hero.png"
   actions:
     - label: "View Repository"
