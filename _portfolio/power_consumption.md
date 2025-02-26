@@ -3,16 +3,15 @@ title: “Case Study: Forecasting Energy Consumption”
 date: 2025-02-26
 excerpt: “A deep learning approach to forecast household power consumption delivering enhanced accuracy and cost savings”
 tags: [case study]
-classes: custom-page
 header:
-  overlay_image: “/assets/images/power_hero.png”
+  overlay_image: "/assets/images/power_hero.png"
   overlay_filter: 0.5
   caption: “Image credit: DALL-E3”
-  teaser: “/assets/images/power_hero.png”
+  teaser: "/assets/images/power_hero.png"
   actions:
     - label: "View Repository"
       url: "https://github.com/FraMaBu/forecast-power-consumption"
-
+classes: custom-page
 ---
 
 We were tasked by an electrity provider to address the challenges of accurately forecasting household power consumption—a critical component for efficient energy management and grid stability. The provider faced the common industry dilemma of traditional forecasting models that struggled to capture the complex, cyclical nature of energy usage, often resulting in resource misallocation and increased operational costs.
