@@ -1,7 +1,7 @@
 ---
-title: “Case Study: Forecasting Energy Consumption”
+title: "Case Study: Forecasting Energy Consumption"
 date: 2025-02-26
-excerpt: “A deep learning approach to forecast household power consumption delivering enhanced accuracy and cost savings”
+excerpt: "A deep learning approach to forecast household power consumption delivering enhanced accuracy and cost savings"
 tags: [case study]
 header:
   overlay_image: "/assets/images/power_hero.png"
