@@ -1,7 +1,7 @@
 ---
-title: "Enhancing Priority Setting with LLMs and RAG"
-date: 2024-06-04
-excerpt: "LLM-powered desk reviews for evidence-based priority setting in World Bank health lending design."
+title: "Case Study: Enhancing Priority Setting with LLMs"
+date: 2024-02-27
+excerpt: "LLM-enhanced desk reviews for evidence-based priority setting in World Bank health lending design."
 tags: [case study]
 header:
   overlay_image: "/assets/images/health_hero.png"
@@ -11,7 +11,7 @@ header:
 classes: custom-page
 ---
 
-This project was done in partnership with the [Bill and Melinda Gates Foundation](http://gatesfoundation.org/). As the technical lead on this project, I designed and implemented a mixed document analysis approach blending advanced LLM methods with human expertise. This initiative was aimed at analyzing and strengthening how countries set priorities for World Bank health investments, ensuring that decision makers have clear, evidence-based insights drawn from complex financial and project documents.
+This project was done in partnership with the [Bill and Melinda Gates Foundation](http://gatesfoundation.org/). As the technical lead on this project, I designed and implemented a mixed document analysis approach blending advanced LLM large language model (LLM) methods with human expertise. This initiative was aimed at analyzing and strengthening how countries set priorities for World Bank health investments, ensuring that decision makers have clear, evidence-based insights drawn from complex financial and project documents.
 
 ## The challenge
 
@@ -19,7 +19,7 @@ World Bank health projects involve a vast array of documents—from Project Appr
 
 ## The innovative solution
 
-To overcome these challenges, I led the development of a document analysis system ("desk review") that combines the efficiency of a large language model (LLM) with the guardrails of human oversight. This approach standardizes the extraction of key information from complex documents, ensuring that the analysis remains both replicable and reliable. By automating the initial extraction process and then incorporating human verification, we were able to quickly and accurately uncover patterns and trends. This, in turn, strengthened evidence-based decision making in the design of World Bank health investments.
+To overcome these challenges, I led the development of a document analysis system ("desk review") that combines the efficiency of a large language model with the guardrails of human oversight. This approach standardizes the extraction of key information from complex documents, ensuring that the analysis remains both replicable and reliable. By automating the initial extraction process and then incorporating human verification, we were able to quickly and accurately uncover patterns and trends. This, in turn, strengthened evidence-based decision making in the design of World Bank health investments.
 
 Here is a high-level overview of the approach: Our process begins with clearly defined focus topics, which guide and standardize the analysis of relevant documents. After preprocessing, the documents are ingested into a vector database to support semantic search. This enables retrieval augmented generation (RAG), where the LLM generates targeted summaries grounded in extracts and references from specific texts—be it from PIDs, PADs, or financing agreements. Human analysts then review and refine the outputs before final postprocessing and storage for further comparative analysis.
 
