@@ -6,7 +6,7 @@ tags: [case study]
 header:
   overlay_image: "/assets/images/health_hero.png"
   overlay_filter: 0.5
-  caption: "Presentation to the SteerCo"
+  caption: "Photo credit: Flux.1-dev"
   teaser: "/assets/images/health_hero.png"
 classes: custom-page
 ---
